@@ -59,7 +59,7 @@ def add_characters
 apothecary = { name: "Apothecary" }
    ]
 
-   
+
 
    # Write code below that does the following programmatically:
    #
