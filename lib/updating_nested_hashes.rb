@@ -67,7 +67,7 @@ def add_characters
 apothecary = { name: "Apothecary" }
    ]
 
-
+puts epic_tragedy
 
 
 
